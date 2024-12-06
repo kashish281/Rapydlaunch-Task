@@ -1,6 +1,4 @@
-# StudyNotion Online Education Platform (MERN-EdTech App) [Website Link](https://studynotionacademy.netlify.app/)
-
-![Main Page](images/mainpage.png)
+# Rapdylaunch Task
 
 ## Project Description
 
