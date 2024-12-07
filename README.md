@@ -151,6 +151,32 @@ data.
 6. Mongoose: Mongoose is used as an Object Data Modeling (ODM) library, providing a
 way to interact with MongoDB using JavaScript
 
+
+### Steps
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/Rapdylaunch-Task.git
+   cd bloodLine
+
+2. **Install dependencies for both backend and frontend**:
+    ```bash
+    cd backend
+   npm install
+   cd ../frontend
+   npm install   
+
+3. **Set up environment variables:**
+     Create a .env file in the root directory and add the following:
+      ```bash
+      MONGO_URI=your_mongodb_connection_string
+      PORT=5000
+ 
+
+4. **Run the application**
+   ```bash
+   npm start
+
+
 ### Data Models and Database Schema: 
 The back end of StudyNotion uses a range of data models and database schemas to
 manage data, including:
