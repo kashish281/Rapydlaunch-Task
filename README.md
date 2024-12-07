@@ -34,6 +34,7 @@ showcase their expertise. In the following sections, we will delve into the tech
 of the platform, which will provide a comprehensive understanding of the platform's
 features and functionalities.
 
+live link - https://studynotionacademy.netlify.app/
 ## System Architecture
 
 The StudyNotion ed-tech platform consists of three main components: the front end, the
